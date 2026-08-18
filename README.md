@@ -70,4 +70,8 @@ GROUP BY a.target_gender, u.user_gender
 ORDER BY matches DESC;
 
 
+Dashboard : 
+https://github.com/Udaykumar723/Social-Media-Ad-Performance-Dashboard/blob/main/Social%20Media%20Ad%20Performance%20Dashboard.png
+
+
 
